@@ -17,9 +17,5 @@
     "name": "Dencho",
     "email": "denchyaknow@gmail.com",
     "url": "https://www.dencho.dev"
-  },
-    “repository”: 
-    { 
-        “type”: “git”, 
-        “url”: “https://github.com/Denchyaknow/Template_SwagUnityPlugin.git?path=/Packages/SwagUnityPlugin” 
-    } 
+  }
+}
