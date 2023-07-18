@@ -1,0 +1,1 @@
+Private Plugin Editor code better be in a goddam Namespace
