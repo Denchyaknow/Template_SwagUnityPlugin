@@ -1,0 +1,25 @@
+{
+  "name": "com.Denchyaknow.SwagUnityPlugin",
+  "version": "1.2.3",
+  "displayName": "Swag Unity Plugin",
+  "description": "A plugin that does something awesome made by Dencho!",
+  "unity": "2022.2.3f1",
+  "unityRelease": "LTS",
+  "dependencies": {
+ },
+ "keywords": [
+    "Swag",
+    "Dencho",
+    "MoreSwag"
+],
+  "author": 
+    {
+    "name": "Dencho",
+    "email": "denchyaknow@gmail.com",
+    "url": "https://www.dencho.dev"
+  },
+    “repository”: 
+    { 
+        “type”: “git”, 
+        “url”: “https://github.com/Denchyaknow/Template_SwagUnityPlugin.git?path=/Packages/SwagUnityPlugin” 
+    } 
